@@ -58,6 +58,8 @@
       link: resources/rses/
     - name: Organizations
       link: resources/organizations/
+    - name: RSE Skills
+      link: resources/skills/
 
 - name: External
   dropdown:
