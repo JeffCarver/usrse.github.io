@@ -7,7 +7,23 @@ subtitle: Skillsets used by RSEs
 
 The following is a list of skills that an RSE might possess. The US-RSE Education and Training Group maintains and publishes this list in an effort to better define RSE roles and to help direct individuals looking to invest in learning new skills. An RSE typically has experience with a subset of these skills. This list is not intended to define what an RSE should know, but rather as a list that can be used to create a profile or job description by choosing relevant skills. This list is also not comprehensive. If you have additions, please contact the Training and Education Working Group.
 
-## Software Development
+The list was originally developed as part of the 2nd International RSE Leaders Workshop held in  2020. It is based off of the analysis of several job postings as well as crowed sourced.
+
+This list has the following categories:
+- [Software Development](#software-development)
+- [User Interface](#user-interface)
+- [Areas of CS](#areas-of-cs)
+- [Domain-Specific Topics](#domain-specific-topics)
+- [Around Software](#around-software)
+- [Data Management Systems/Information Storage Systems](#data-management-systemsinformation-storage-systems)
+- [Data](#data)
+- [People-Related](#people-related)
+- [Research Output](#research-output)
+- [Community](#community)
+- [Other](#other)
+
+
+### Software Development
   - Requirements Gathering/Analysis/Formulation
   - Technology Evaluation
   - Packaging/Releasing
@@ -20,6 +36,7 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
         - Version Upgrades
   - Use of Version Control Systems (e.g. Git, Mercurial, etc.)
   - Testing
+  - Peer Code Review
   - Distributed Systems
     - Cloud Computing
     - Grid Computing
@@ -34,11 +51,11 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
   - Embedded Systems/Software
   - Real-Time Systems Software
 
-## User Interface
+### User Interface
   - UX Design
   - Graphic Design
 
-## Areas of CS
+### Areas of CS
   - Algorithm
      - Development
      - Evaluation
@@ -64,13 +81,13 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
   - Computer Networking
   - Operating Systems
 
-## Domain-specific topics
+### Domain-Specific Topics
   - Geographic Information System (GIS)
   - Bioinformatics
   - Industrial Control Systems
   - Simulation
 
-## Around Software
+### Around Software
   - Project Management
   - Software Aspects
      - Interoperability
@@ -87,7 +104,6 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
      - DevOps
      - Containerization
   - Process Development (Best Practices, Software Quality, etc.)
-  - Code review
   - Support
     - End-User Support
     - Contributor Support
@@ -97,7 +113,7 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
     - End-User Documentation
     - Reports (Stats, Progress Reports, etc.)
 
-## Data Management Systems/Information Storage Systems
+### Data Management Systems/Information Storage Systems
   - Database Design and Models
       - Relational
       - NoSQL
@@ -106,12 +122,12 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
   - Query Languages
   - Database Administration
 
-## Data
+### Data
   - Data Visualization
   - Data Management
   - Data Analysis
 
-## People-Related
+### People-Related
   - People Management
   - Technical Leadership
   - Software Advertising
@@ -131,15 +147,15 @@ The following is a list of skills that an RSE might possess. The US-RSE Educatio
      - Users
      - General Public
 
-## Research Output
+### Research Output
   - Presentation of Results (e.g. Meetings, Workshops, Conferences, etc.)
   - Scientific Writing
 
-## Community
+### Community
   - Lobbying
   - Open Source Development
 
-## Other
+### Other
   - Domain-Specific Knowledge
     - Domains according to DFG.de (http://dfg.de/)
     - Domains according to Nature (https://www.nature.com/srep/browse-subjects)
