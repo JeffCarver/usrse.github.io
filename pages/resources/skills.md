@@ -1,13 +1,13 @@
 ---
 layout: page
-title: RSE Resources
+title: RSE Skills
 permalink: /resources/skills/
-subtitle: Resources for RSEs
+subtitle: Skillsets used by RSEs
 ---
 
-The following is a list of skills that an RSE might possess. An RSE typically has experience with a subset of these skills. By no means is this list meant to be understood as what an RSE should know but rather as a list that can be used to create a profile for an RSE or an RSE position by picking relevant skills. This list is also not comprehensive. If you find something is missing, please contact the Training and Education Working Group.
+The following is a list of skills that an RSE might possess. The US-RSE Education and Training Group maintains and publishes this list in an effort to better define RSE roles and to help direct individuals looking to invest in learning new skills. An RSE typically has experience with a subset of these skills. This list is not intended to define what an RSE should know, but rather as a list that can be used to create a profile or job description by choosing relevant skills. This list is also not comprehensive. If you have additions, please contact the Training and Education Working Group.
 
-**Software Development**
+## Software Development
   - Requirements gathering/analysis/formulation
   - Technology evaluation
   - Packaging/Releasing
@@ -24,7 +24,7 @@ The following is a list of skills that an RSE might possess. An RSE typically ha
   - Client-server architectures/web applications
     - Frontend
         - Frameworks
-        - UX
+        - User experience (UX)
         - Testing
     - Backend
     - Web services (API development)
@@ -45,7 +45,7 @@ The following is a list of skills that an RSE might possess. An RSE typically ha
   - Logic
   - Randomness, geometry and discrete structures
   - Semantics and reasoning
-  - Agent-based modelling
+  - Agent-based modeling
   - Artificial intelligence
      - Machine Learning (Deep learning, neural nets, etc.)
   - Computer vision
@@ -62,7 +62,7 @@ The following is a list of skills that an RSE might possess. An RSE typically ha
   - Operating systems
 
 **Domain-specific topics**
-  - GIS
+  - Geographic Information System (GIS)
   - Bioinformatics
   - Industrial control systems
   - Simulation
@@ -84,8 +84,10 @@ The following is a list of skills that an RSE might possess. An RSE typically ha
      - DevOps
      - Containerization
   - Process development (best practices, software quality, etc.)
+  - Code review
   - Support
     - End-user support
+    - Contributor support
     - Maintenance of support systems
   - Documentation
     - Developer documentation
@@ -115,6 +117,7 @@ The following is a list of skills that an RSE might possess. An RSE typically ha
      - Teaching
      - Consulting
      - Mentoring
+     - Pair programming
   - Funding/Grants
      - Communication
      - Reporting
