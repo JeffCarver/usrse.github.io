@@ -5,6 +5,8 @@
       link: about
     - name: Mission
       link: about/mission/
+    - name: DEI Mission Statement
+      link: /about/dei-mission/
     - name: What is an RSE?
       link: about/what-is-an-rse/
     - name: Governance
@@ -31,7 +33,7 @@
   dropdown:
     - name: Join US-RSE
       link: join
-    - name: Engage
+    - name: Get Involved
       link: get-involved
     - name: Share
       link: share
@@ -42,6 +44,11 @@
   dropdown:
     - name: Browse the board
       link: jobs
+    - name: About submitting jobs
+      link: jobs/policy/
+    - name: Submit a job
+      link: https://docs.google.com/forms/d/e/1FAIpQLSfYK64R1c0rj-ERldGLxuqedLIbsYPZXj9uBplDRYNmnND10Q/viewform?usp=sf_link
+      external: true
 - name: News
   link: news/
   dropdown:
@@ -56,6 +63,8 @@
   dropdown:
     - name: RSE Resources
       link: resources/rses/
+    - name: Training Material
+      link: resources/training/
     - name: Organizations
       link: resources/organizations/
 
