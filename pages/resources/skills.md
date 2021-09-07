@@ -1,11 +1,11 @@
 ---
 layout: page
-title: RSE Skills
-permalink: /resources/skills/
-subtitle: Skillsets used by RSEs
+title: Skill Sets used by RSEs
+permalink: /resources/training/skills/
+subtitle: Skill Sets used by RSEs
 ---
 
-The following is a list of skills that an RSE might possess. The US-RSE Education and Training Group maintains and publishes this list in an effort to better define RSE roles and to help direct individuals looking to invest in learning new skills. An RSE typically has experience with a subset of these skills. This list is not intended to define what an RSE should know, but rather as a list that can be used to create a profile or job description by choosing relevant skills. This list is also not comprehensive. If you have additions, please contact the Training and Education Working Group.
+The following is a list of skills that an RSE might possess. The US-RSE Education and Training Group maintains and publishes this list in an effort to better define RSE roles and to help direct individuals looking to invest in learning new skills. An RSE typically has experience with a subset of these skills. This list is not intended to define what an RSE should know, but rather as a list that can be used to create a profile or job description by choosing relevant skills. This list is also not comprehensive. If you have additions, please contact the [US-RSE Training and Education Working Group](({{ site.baseurl }}/about/working-groups/)).
 
 The list was originally developed as part of the 2nd International RSE Leaders Workshop held in  2020. It is based off of the analysis of several job postings as well as crowed sourced.
 
