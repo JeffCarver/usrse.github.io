@@ -12,17 +12,26 @@ Donations to support US-RSE's ongoing [mission]({{ site.baseurl }}/mission/) can
 Donations are tax deductible as allowed to the full extent of the law and can be made via a number of convenient methods.
 
 <!-- It would be nice to have this be a big button at some point -->
-[Support US-RSE!](https://opencollective.com/usrse) 
+[Support US-RSE!](https://opencollective.com/usrse)
 
-## Fundraising Initiatives 
+## Fundraising Initiatives
 
-Currently the US-RSE is accepting gifts to develop funds focussed on two areas.  
+In general, all donations go towards supporting our [organizational mission]({{ site.baseurl }}/mission/).
 
-First, we are raising funds to support general operational expenses. The primary general operational needs we are hoping to support at this stage are modest expenses associated with membership management and enhanced communication amongst members. Other activities are currently all volunteer based. 
+Currently, US-RSE is focused on raising funds to support general operational expenses.
+The primary general operational needs we need to support at this stage are modest expenses associated with membership management and enhanced communication amongst members.
+We are currently limited by the the effort and time required of volunteers to maintain the current system.
+By making a [one time or recurring donation](https://opencollective.com/usrse) you'll allow our passionate volunteers to spend more time focused on advancing RSE initiatives than operational tasks.
 
-Second, we are excited to try and grow a student RSE support fund that can help encourage new students to enter and learn about the RSE field. This fund can be contributed to [__here__](https://opencollective.com/usrse/projects/student-spot-awards).
 
-With the advent of our new logo we are working on soon having a way to offer some fun and exciting branded items that can help strengthen fund raising and spread the US-RSE spirit far and wide. 
 
-We are, of course, very interested and open to hearing comments/feedback and suggestions from the broad US-RSE community on financial strategies for the US-RSE. 
+### Coming Soon
 
+With the advent of our new logo we are working on soon having a way to offer some fun and exciting branded items that can help strengthen fund raising and spread the US-RSE spirit far and wide.
+
+Also, as the Association matures we plan to have targeted funds that will allow the direct support of specific individual initiatives.
+
+### Feedback and Suggestions
+
+We are, of course, very interested and open to hearing comments/feedback and suggestions from the broad US-RSE community on financial strategies for US-RSE.
+Please contact us with suggestions either via [email](mailto:contact@us-rse.org) or reach out via the US-RSE slack workspace.
